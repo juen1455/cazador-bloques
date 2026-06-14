@@ -31,5 +31,6 @@ jobs:
         git config --local user.name "GitHub Action"
         git add ultimo_id.txt
         git commit -m "Actualizar ultimo_id [skip ci]" || echo "No hay cambios"
-        git push
+        git pull --rebase origin main
+        git push origin main
         
