@@ -1,0 +1,9 @@
+{
+  "name": "buscador-grupos",
+  "version": "1.0.0",
+  "description": "Bot cazador de grupos de Roblox",
+  "main": "bot.js",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}
