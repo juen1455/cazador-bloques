@@ -3,7 +3,7 @@ const fetch = require('node-fetch');
 
 // Configuración de archivos y rangos
 const ARCHIVO_PROGRESO = 'ultimo_id.txt';
-const CANTIDAD_A_ESCANEAR = 100000; 
+const CANTIDAD_A_ESCANEAR = 27500; 
 
 // Tu Webhook de Discord vinculado
 const DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1515199569686823113/eAtu7a0PbPN3xoIzhWB70wYdkUAxNSHyS1ZrylJRDSNnZ1Q-OcSrkuLRzebJrhYiJyNY";
